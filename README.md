@@ -72,6 +72,9 @@ This project simplifies that by transforming exported Meta Ads data into **visua
 
 ---
 
+## Note: The Power BI file (.pbix) is stored using Git LFS due to its large size. 
+Download it locally to explore the interactive dashboard in Power BI Desktop.
+
 ## Author
 **Mahi Gupta**
 Data Analyst | Power BI Developer | CSE Student
