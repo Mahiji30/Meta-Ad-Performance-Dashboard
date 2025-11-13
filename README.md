@@ -42,6 +42,9 @@ This project simplifies that by transforming exported Meta Ads data into **visua
 
 ---
 
+## For Navigation between two pages (facebook and instagram)
+Use ctrl + click on that the plateform which you want to see the dashboard of i.e. Facebook or Instagram given in the slicer.
+
 ## How to Use  
 
 1. Clone this repository:  
@@ -72,7 +75,7 @@ This project simplifies that by transforming exported Meta Ads data into **visua
 
 ---
 
-## Note: The Power BI file (.pbix) is stored using Git LFS due to its large size. 
+## Note: The Power BI file (.pbix) is too large in size. 
 Download it locally to explore the interactive dashboard in Power BI Desktop.
 
 ## Author
